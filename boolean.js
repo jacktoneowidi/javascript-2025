@@ -8,7 +8,7 @@
         const age = 15;
 
         if (age >= 40) {
-            console.log('hello');
+            console.log('hello')
         }
         else{
             console.log('else');
@@ -16,7 +16,7 @@
 
 
         if(15>= 16){
-            console.log('you can drive' );
+            console.log('you can drive' )
 
         }
         
@@ -25,7 +25,7 @@
         }
 
         else{
-            console.log ('you cant drive');
+            console.log ('you cant drive')
         }
 
         
