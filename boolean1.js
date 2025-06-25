@@ -3,13 +3,13 @@
 
 
 
-scipt
+script
   const randomNumber = Math.random();
         if(randomNumber >= 0 && randomNumber 1 / 3 ){
             console.log('rock');
         }else if()
         
-scipt
+script
           
 <h1>Rock  paper scissors </h1>
     <button onclick="
