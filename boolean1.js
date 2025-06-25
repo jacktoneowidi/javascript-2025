@@ -10,3 +10,11 @@ scipt
         }else if()
         
 scipt
+          
+<h1>Rock  paper scissors </h1>
+    <button onclick="
+      const randomNumber = (Math.random());
+      if(randomNumber >= 0 )
+
+"> Rock</button>
+
